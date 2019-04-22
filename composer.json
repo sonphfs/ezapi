@@ -1,0 +1,17 @@
+{
+    "name": "sonphfs/ezapi",
+    "description": "create simple api with package",
+    "license": "sonphfs",
+    "authors": [
+        {
+            "name": "sonphfs",
+            "email": "phamhungsonk60@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Sonphfs\\Ezapi\\": "src/"
+        }
+    }
+}
