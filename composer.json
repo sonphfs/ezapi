@@ -1,7 +1,6 @@
 {
     "name": "sonphfs/ezapi",
     "description": "create simple api with package",
-    "license": "sonphfs",
     "authors": [
         {
             "name": "sonphfs",
